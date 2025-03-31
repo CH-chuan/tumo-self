@@ -4,7 +4,7 @@ Tumo – open-source AI media generation app, supporting Replicate, OpenAI, and 
 
 To try it out for free, go to [Takin.ai](https://tumo.takin.ai).
 
-![Image](https://github.com/user-attachments/assets/5afbca40-6d2e-4120-9278-f9a86aa9e5aa)
+![Image](https://github.com/user-attachments/assets/81698751-0664-473a-962c-09b2d8d3fb75)
 
 ## Tech Stack
 
