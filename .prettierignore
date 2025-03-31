@@ -1,0 +1,9 @@
+.next
+node_modules
+out
+public
+.git
+.husky
+pnpm-lock.yaml
+.vercel
+.env*
