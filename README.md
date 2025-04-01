@@ -1,6 +1,6 @@
 # About
 
-Tumo – open-source AI media generation app, supporting Replicate, OpenAI, and more. 🚀
+Tumo – an open-source AI image generation app, supporting Replicate, OpenAI, and more. 🚀
 
 To try it out for free, go to [Takin.ai](https://tumo.takin.ai).
 
@@ -17,6 +17,28 @@ Tumo is built with the following technologies:
 - **Storage**: Local filesystem or Amazon S3
 - **AI Providers**: OpenAI, Replicate (easily extensible to others)
 - **Package Manager**: pnpm
+
+## Supported Models
+
+### OpenAI
+
+- DALL-E 2
+- DALL-E 3
+
+### Replicate
+
+- Flux 1.1 Pro (black-forest-labs/flux-1.1-pro)
+- Flux 1.1 Pro Ultra (black-forest-labs/flux-1.1-pro-ultra)
+- Flux Dev (black-forest-labs/flux-dev)
+- Flux Pro (black-forest-labs/flux-pro)
+- Flux Schnell (black-forest-labs/flux-schnell)
+- Ideogram v2 (ideogram-ai/ideogram-v2)
+- Ideogram v2 Turbo (ideogram-ai/ideogram-v2-turbo)
+- Photon (luma/photon)
+- Photon Flash (luma/photon-flash)
+- Recraft v3 (recraft-ai/recraft-v3)
+- Stable Diffusion 3.5 Large (stability-ai/stable-diffusion-3.5-large)
+- Stable Diffusion 3.5 Large Turbo (stability-ai/stable-diffusion-3.5-large-turbo)
 
 ## Running Locally
 
